@@ -1,0 +1,2 @@
+# Emotion_Analyses_project
+用PMI方法计算统计10000条外卖评论中50个倾向值最大和最小的单词
